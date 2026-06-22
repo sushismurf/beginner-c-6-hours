@@ -1,0 +1,1 @@
+This is a project for my beginner level C learning, based on the [video](https://www.youtube.com/watch?v=xND0t1pr3KY).
